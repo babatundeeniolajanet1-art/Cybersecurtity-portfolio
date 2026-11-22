@@ -12,7 +12,7 @@ My portfolio documents my technical development through cybersecurity labs, prac
 
 🛡️ TECHNICAL EXPERTISE
 
-SOC Operations & Security Monitoring
+### 🛡️ [SOC & Wazuh Threat Detection Lab](./01-SOC-Wazuh-Lab/README.md)
 
 * Splunk (training and case-study analysis)
 * Wazuh SIEM
