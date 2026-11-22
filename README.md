@@ -14,7 +14,7 @@ My portfolio documents my technical development through cybersecurity labs, prac
 
 ### 🛡️ [SOC & Wazuh Threat Detection Lab](./01-SOC-Wazuh-Lab/README.md)
 
-* Splunk (training and case-study analysis)
+### 📧 [Healthcare Phishing Incident Investigation Using Splunk](./02-Healthcare-Phishing-Investigation/README.md)
 * Wazuh SIEM
 * Microsoft Sentinel
 * Security event and log analysis
