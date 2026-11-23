@@ -130,7 +130,11 @@ I am particularly focused on strengthening my practical capabilities in:
 * Cyber Security Project Consultant – 10Alytics (Graduated with Merit).
 * Cybersecurity Analytics – TS Academy.
 * Continued independent technical learning and practical cybersecurity development.
+* 
+Ongoing Professional Development
 
+* Currently undertaking additional Cybersecurity training with TS Academy to expand my technical knowledge and strengthen my practical cybersecurity skills.
+* Continuing to develop my knowledge of security operations, threat detection, incident investigation and information security.
 ⸻
 
 🎯 CAREER INTERESTS
